@@ -10,9 +10,11 @@ The goal is to:
 - Build predictive models to forecast demand for the next 30 days.
 - Deploy a web app to interactively view and download forecasts.
 
+
+```
 ## 📂 Project Structure
 
-
+```
 
 PJMW\_MW\_Hourly/
 ├── PJMW\_MW\_Hourly.xlsx               # Historical hourly power consumption data (in MW)
@@ -20,8 +22,12 @@ PJMW\_MW\_Hourly/
 ├── deployment\_final.ipynb           # Notebook for deployment using Streamlit
 ├── random\_forest\_model.pkl          # Trained Random Forest model for forecasting
 ├── app.py                           # Final Streamlit app script
-├── Requirement document.docx       # Business and technical requirement overview
+├── Requirement\_document.docx       # Business and technical requirement overview
 
+```
+```
+
+This will ensure it’s in the proper format for markdown. Let me know if you need further adjustments!
 
 
 ## 🔍 Exploratory Data Analysis (EDA)
