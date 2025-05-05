@@ -1,4 +1,4 @@
-```
+
 # ⚡ PJM Hourly Energy Consumption Forecast
 
 This project aims to forecast hourly energy consumption for PJM Interconnection LLC using machine learning and time series modeling techniques. PJM is a regional transmission organization in the U.S. serving various states and the District of Columbia.
@@ -12,7 +12,7 @@ The goal is to:
 
 ## 📂 Project Structure
 
-```
+
 
 PJMW\_MW\_Hourly/
 ├── PJMW\_MW\_Hourly.xlsx               # Historical hourly power consumption data (in MW)
@@ -22,7 +22,7 @@ PJMW\_MW\_Hourly/
 ├── app.py                           # Final Streamlit app script
 ├── Requirement document.docx       # Business and technical requirement overview
 
-````
+
 
 ## 🔍 Exploratory Data Analysis (EDA)
 
@@ -48,10 +48,10 @@ The app provides:
 
 ### To run locally:
 
-```
+
 pip install streamlit pandas joblib matplotlib openpyxl
 streamlit run app.py
-````
+
 
 ## 📊 Sample Forecast
 
