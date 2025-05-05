@@ -70,10 +70,10 @@ The model uses engineered time-based features to produce short-term energy deman
 
 This project was developed as part of a data science internship. The dataset was obtained from PJM's public records. Special thanks to mentors for guidance on modeling and deployment strategies.
 
-## 📌 How to Use
+### 📌 How to Use
 
 * Clone this repository to your local system.
-* Open and run "PJMW\_MW\_Hourly - 7.ipynb" to explore the data and understand the model.
-* Run "app.py" to launch the Streamlit web app.
-* Use "random\_forest\_model.pkl" to make predictions on new data.
+* Open and run **`PJMW_MW_Hourly - 7.ipynb`** to explore the data, train the model, and generate the `random_forest_model.pkl` file.
+* Run **`app.py`** to launch the Streamlit web app.
+* Use the generated **`random_forest_model.pkl`** to make predictions on new data via the app.
 
