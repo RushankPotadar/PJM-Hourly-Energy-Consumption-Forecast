@@ -11,23 +11,19 @@ The goal is to:
 - Deploy a web app to interactively view and download forecasts.
 
 
-```
+
+
 ## 📂 Project Structure
 
-```
-
 PJMW\_MW\_Hourly/
-├── PJMW\_MW\_Hourly.xlsx               # Historical hourly power consumption data (in MW)
-├── PJMW\_MW\_Hourly - 7.ipynb          # Main notebook for EDA, preprocessing, modeling
-├── deployment\_final.ipynb           # Notebook for deployment using Streamlit
-├── random\_forest\_model.pkl          # Trained Random Forest model for forecasting
-├── app.py                           # Final Streamlit app script
-├── Requirement\_document.docx       # Business and technical requirement overview
 
-```
-```
+* PJMW\_MW\_Hourly.xlsx               # Historical hourly power consumption data (in MW)
+* PJMW\_MW\_Hourly - 7.ipynb          # Main notebook for EDA, preprocessing, modeling
+* deployment\_final.ipynb           # Notebook for deployment using Streamlit
+* random\_forest\_model.pkl          # Trained Random Forest model for forecasting
+* app.py                           # Final Streamlit app script
+* Requirement\_document.docx       # Business and technical requirement overview
 
-This will ensure it’s in the proper format for markdown. Let me know if you need further adjustments!
 
 
 ## 🔍 Exploratory Data Analysis (EDA)
